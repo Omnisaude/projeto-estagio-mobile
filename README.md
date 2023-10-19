@@ -1,7 +1,7 @@
 # Projeto para Estágio Mobile - Omnisaúde
 
 ## Objetivo
-Avaliar a habilidade do candidato em construir telas e widgets, gerenciar o estado de um aplicativo, consumir uma API REST e utilizar recursos do Firebase..
+Avaliar a habilidade do candidato em construir telas e widgets, gerenciar o estado de um aplicativo, consumir uma API REST e utilizar recursos do Firebase.
 
 ## Instruções
 
