@@ -28,6 +28,7 @@ Objetivo: Criar um aplicativo Flutter que consulta a API IMDB para listar filmes
     Configuração do firebase
       - Crie um projeto no firebase.
       - Configure a integração com o Firebase para permitir o salvamento de filmes favoritos.
+      
     Firebase - Salvar Favoritos (20 pontos):
       - O botão "Adicionar aos Favoritos" na tela de detalhes deve permitir ao usuário salvar o filme como um favorito no Firebase.
       - Os filmes favoritos devem ser armazenados em uma coleção Firebase, associados ao usuário atual (não é necessário implementar a autenticação).
