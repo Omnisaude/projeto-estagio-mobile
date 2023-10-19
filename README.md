@@ -9,23 +9,25 @@ Teste de Estágio em Flutter - Aplicativo de Filmes com IMDB e Firebase
 Objetivo: Criar um aplicativo Flutter que consulta a API IMDB para listar filmes, exibir detalhes de filmes e permite salvar filmes como favoritos no Firebase.
   
   - A api a ser usada deve ser: http://www.omdbapi.com/
-  - Caso não houver ambiente configurado pode usar esta ide online: https://flutlab.io
+  - Caso não houver ambiente configurado pode usar esta IDE online: https://flutlab.io
     
 ## Tarefas:
     Configuração do Projeto (20 pontos):
       - Crie um novo projeto Flutter.
       - Configure o projeto para acessar a API OMDB.
-      - Configure a integração com o Firebase para permitir o salvamento de filmes favoritos.
     
     Tela Inicial (40 pontos):
       - Crie uma tela inicial (HomePage) que consulte a API IMDB e exiba um campo texto que permita a pesquisa por título do filme.
       - Cada filme deve mostrar seu título, imagem de capa e avaliação.
     
-    Detalhes do Filme (0 pontos):
+    Detalhes do Filme (40 pontos):
       - Ao tocar em um filme na tela inicial, o aplicativo deve navegar para uma tela de detalhes do filme.
       - A tela de detalhes deve exibir informações detalhadas sobre o filme, como título, descrição, gênero, data de lançamento, diretor, etc. Caso alguma dessas informações não existir por desconsiderar e não exibí-la.
     
 ## Opcional(BONUS)
+    Configuração do firebase
+      - Crie um projeto no firebase.
+      - Configure a integração com o Firebase para permitir o salvamento de filmes favoritos.
     Firebase - Salvar Favoritos (20 pontos):
       - O botão "Adicionar aos Favoritos" na tela de detalhes deve permitir ao usuário salvar o filme como um favorito no Firebase.
       - Os filmes favoritos devem ser armazenados em uma coleção Firebase, associados ao usuário atual (não é necessário implementar a autenticação).
@@ -43,9 +45,9 @@ Objetivo: Criar um aplicativo Flutter que consulta a API IMDB para listar filmes
 
     Observações:
       - Se você enfrentar dificuldades em qualquer parte do teste, é recomendável que documente os desafios e as tentativas de resolução.
+      - Use a gerência de estado de sua preferência.
       - O código deve ser comentado adequadamente para explicar a lógica e a estrutura do aplicativo.
       - O candidato pode usar pacotes Flutter e bibliotecas de terceiros, se necessário.
-      - Segue exemplo de como deve ser executada a consulta, porém o visual deve ser melhorado para que a experiência do usuário seja mais agradável.
-
+      
   ## Exemplo de tela
-      - https://miro.medium.com/v2/resize:fit:918/1*mN_T3I2tUXpIAVRKjJbwjw.png
+      https://miro.medium.com/v2/resize:fit:918/1*mN_T3I2tUXpIAVRKjJbwjw.png
