@@ -51,4 +51,7 @@ Objetivo: Criar um aplicativo Flutter que consulta a API IMDB para listar filmes
       - O candidato pode usar pacotes Flutter e bibliotecas de terceiros, se necessário.
       
   ## Exemplo de tela
-      https://miro.medium.com/v2/resize:fit:918/1*mN_T3I2tUXpIAVRKjJbwjw.png
+
+![1_mN_T3I2tUXpIAVRKjJbwjw](https://github.com/Omnisaude/projeto-estagio-mobile/assets/12771605/4790d44f-aa7f-4e3d-8fbd-e0347dab25c1)
+
+      
