@@ -43,7 +43,7 @@ Objetivo: Criar um aplicativo Flutter que consulta a API IMDB para listar filmes
       - O aplicativo deve ser funcional e capaz de acessar a API IMDB e o Firebase.
       - Os filmes devem ser exibidos de forma legível e atraente.
       - Prazo para a conclusão do teste: 3 dias.
-      - Ao terminar suba o código no github e deixar o repositório público, depois enviar o link para: weslley@omnisaude.co
+      - Ao terminar suba o código no github e deixar o repositório público, depois enviar o link para: weslley@omnisaude.co com o assunto: Teste de Estágio em Mobile.
 
     Observações:
       - Se você enfrentar dificuldades em qualquer parte do teste, é recomendável que documente os desafios e as tentativas de resolução.
