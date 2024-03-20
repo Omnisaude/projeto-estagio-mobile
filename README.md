@@ -20,7 +20,7 @@ Criar um aplicativo Flutter que consulta a API pública de moedas para obter as 
 - O código deve ser organizado e comentado adequadamente para explicar a lógica e a estrutura do aplicativo.
 - O aplicativo deve ser funcional e capaz de acessar a API pública de forma eficiente.
 - As conversões devem ser precisas e exibidas de forma legível.
-- Qualquer parte do teste entendida com o uso de Chat GPT será desconsiderada.
+- Qualquer parte do teste compreendida através do auxílio de tecnologias ou ferramentas automatizadas será desconsiderada.
 - Ao terminar, suba o código no GitHub e deixe o repositório público, em seguida, envie o link para: [weslley@omnisaude.co](mailto:weslley@omnisaude.co) com o assunto: Teste de Estágio em Mobile.
 
 ## Observações
