@@ -14,7 +14,7 @@ Criar um aplicativo Flutter que consulta a API pública de moedas para obter as 
 ### Tela de Conversão de Moedas
 - Crie uma tela inicial que exiba uma lista suspensa ou campo de pesquisa para selecionar a moeda base.
 - Após selecionar a moeda base, exiba uma lista de moedas disponíveis para conversão, com campos de entrada para o usuário inserir o valor a ser convertido.
-- Ao converter o valor, exiba o resultado da conversão em tempo real.
+- Ao converter o valor, exiba o resultado da conversão.
 
 ## Regras e Notas
 - O código deve ser organizado e comentado adequadamente para explicar a lógica e a estrutura do aplicativo.
