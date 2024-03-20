@@ -1,4 +1,4 @@
-# Teste de Estágio em Mobile - Aplicativo Conversor de Moedas com API Pública
+# Teste de Estágio em Mobile
 
 ## Objetivo
 Criar um aplicativo Flutter que consulta a API pública de moedas para obter as taxas de câmbio atualizadas e permitir ao usuário converter entre diferentes moedas.
