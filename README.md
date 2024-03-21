@@ -8,7 +8,7 @@ Criar um aplicativo Flutter que consulta a API pública de moedas para obter as 
 ### Configuração do Projeto
 - Crie um novo projeto Flutter.
 - Configure o projeto para acessar a API pública de moedas para obter as taxas de câmbio atualizadas.
-- A documentação da API pode ser encontrada em: [API de Moedas](https://docs.awesomeapi.com.br/api-de-moedas)
+- A documentação da API pode ser encontrada em: [API de Moedas](https://www.frankfurter.app/docs/)
 - Se você não tiver um ambiente configurado, pode utilizar esta IDE online: [FlutLab](https://flutlab.io)
 
 ### Tela de Conversão de Moedas
