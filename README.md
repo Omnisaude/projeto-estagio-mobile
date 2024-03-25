@@ -22,7 +22,7 @@ Criar um aplicativo Flutter que consulta a API pública de moedas para obter as 
 - As conversões devem ser precisas e exibidas de forma legível.
 - Qualquer parte do teste compreendida através do auxílio de tecnologias ou ferramentas automatizadas será desconsiderada.
 - Ao terminar, suba o código no GitHub e deixe o repositório público, em seguida, envie o link para: [tiago@omnisaude.life](mailto:tiago@omnisaude.life) e também para: [rafaelpedrosa@omnisaude.life](mailto:rafaelpedrosa@omnisaude.life) com o assunto: Teste de Estágio em Mobile.
-- Prazo máximo para entrega: 24/03/2024.
+- Prazo máximo para entrega: 31/03/2024.
 
 ## Observações
 - Documente quaisquer desafios enfrentados durante o desenvolvimento e suas tentativas de resolução.
